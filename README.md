@@ -1,4 +1,4 @@
-# Gostack-Desafio_Conceitos_do_Node.js
+# Desafio Conceitos do Node.js
 
  📃 Sobre o desafio
  
